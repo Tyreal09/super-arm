@@ -54,16 +54,6 @@ choco install winpcap -y
 choco install winscp -y
 choco install putty.install -y
 
-:: Install radical cli tools
-choco install vim -y
-choco install awscli -y
-choco install openssh -y
-choco install curl -y
-choco install wget -y
-choco install jq -y
-choco install grep -y
-choco install md5 -y
-
 :: Install multimedia / miscellaneous tools
 choco install adobereader -y
 choco install spotify -y
